@@ -1,0 +1,7 @@
+﻿.vs/
+.vs*/
+/tmp
+/out
+build/
+build*/
+out*/
