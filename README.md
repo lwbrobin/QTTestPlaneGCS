@@ -1,1 +1,1 @@
-# testplanegcs
+QT可视化测试约束求解器库PlanceGCS
